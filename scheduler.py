@@ -1,7 +1,7 @@
 # Import the needed libraries
 import sys
 import pandas as pd
-
+import numpy as np
 class process:
     """
     Class to represent a process in a CPU scheduling system.
