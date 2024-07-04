@@ -1,0 +1,6 @@
+Process Name, Arrival Time, Burst Time, Deadline
+A		0		25	50
+B		0		35	80
+C		50		25	100
+D		80		35	160
+E		100		25	150			
